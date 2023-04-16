@@ -72,7 +72,7 @@
 ![Hadoop](https://img.shields.io/badge/Hadoop-logo?logo=apache-hadoop&logoColor=white&color=yellow)
 ![AWS](https://img.shields.io/badge/AWS-logo?logo=amazon-aws&logoColor=white&color=orange)
 ![GCP](https://img.shields.io/badge/GCP-logo?logo=google-cloud&logoColor=white&color=blue)
-![Tableau](https://img.shields.io/badge/Tableau-logo?logo=tableau&logoColor=white&color=blue)
+![Tableau](https://img.shields.io/badge/Tableau-logo?logo=tableau&logoColor=white&color=black)
 
 <br><br>
 ## 🤝 Connect with me:
