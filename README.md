@@ -1,7 +1,7 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <p align="center">
   <em>
-    I am Raghav Gaggar, a <b>Master of Science in Computer Science student from the University Of Southern California (USC)</b>, USA</a>. <br>
+    I am Raghav Gaggar, a <b>Master of Science in Computer Science student at the University Of Southern California (USC)</b>, USA</a>. <br>
     I am interested in <b>Machine Learning, Deep Learning, and Data Science.</b>
   </em>
 </p>
