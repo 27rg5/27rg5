@@ -12,7 +12,7 @@
 
 ✔ Currently working as a ***Deep Learning Research Assistant at the Zilkha Neurogenetic Institute of USC*** <br>
 ✔ Previously ***interned at NVIDIA and AlgoAsylum, where I worked on Machine Learning research***<br>
-✔ <ins>*I am looking for internship/co-op opportunities in the Machine Learning, Deep Learning, and Data Science domain*</ins><br>
+✔ <ins>*I am looking for internship/full-time opportunities in Machine Learning/Data Science/Software Engineering domains*</ins><br>
 
 <br><br>
 ## 🛠️ My Skills
