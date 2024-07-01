@@ -24,13 +24,18 @@
 ![C](https://img.shields.io/badge/C-logo?logo=c&logoColor=white&color=blue)
 ![C++](https://img.shields.io/badge/C++-logo?logo=c%2B%2B&logoColor=white&color=blue)
 ![Java](https://img.shields.io/badge/Java-logo?logo=java&logoColor=white&color=orange)
-![MATLAB](https://img.shields.io/badge/MATLAB-logo?logo=mathworks&logoColor=white&color=yellow)
 
 ### Machine Learning:
 &emsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-logo?logo=pytorch&logoColor=white&color=red)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-logo?logo=tensorflow&logoColor=white&color=orange)
 ![Keras](https://img.shields.io/badge/Keras-logo?logo=keras&logoColor=white&color=red)
+![Large Language Models](https://img.shields.io/badge/Large%20Language%20Models-ff69b4?logo=large-language-models&logoColor=white&color=ff69b4)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-ff4500?logo=generative-ai&logoColor=white&color=ff4500)
+![LangChain](https://img.shields.io/badge/LangChain-blue?logo=langchain&logoColor=white&color=blue)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white&color=005CED)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?logo=nvidia&logoColor=white&color=76B900)
+![PySpark](https://img.shields.io/badge/PySpark-e25a1c?logo=apache-spark&logoColor=white&color=e25a1c)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-logo?logo=scikit-learn&logoColor=white&color=blue)
 ![HuggingFace](https://img.shields.io/badge/Transformers-logo?logo=hugging%20face&logoColor=white&color=yellow)
 ![XGBoost](https://img.shields.io/badge/XGBoost-logo?logo=xgboost&logoColor=white&color=blue)
@@ -42,6 +47,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-logo?logo=pandas&logoColor=white&color=blue)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-logo?logo=matplotlib&logoColor=white&color=blue)
 ![Seaborn](https://img.shields.io/badge/Seaborn-logo?logo=seaborn&logoColor=white&color=blue)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&color=3F4F75)
 
 ### Database:
 &emsp;
@@ -68,10 +74,8 @@
 &emsp;
 ![Git](https://img.shields.io/badge/Git-logo?logo=git&logoColor=white&color=orange)
 ![Docker](https://img.shields.io/badge/Docker-logo?logo=docker&logoColor=white&color=blue)
-![Spark](https://img.shields.io/badge/Spark-logo?logo=apache-spark&logoColor=white&color=orange)
 ![Hadoop](https://img.shields.io/badge/Hadoop-logo?logo=apache-hadoop&logoColor=white&color=yellow)
-![AWS](https://img.shields.io/badge/AWS-logo?logo=amazon-aws&logoColor=white&color=orange)
-![GCP](https://img.shields.io/badge/GCP-logo?logo=google-cloud&logoColor=white&color=blue)
+![Microsoft Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF3621?logo=databricks&logoColor=white&color=0078D4)
 ![Tableau](https://img.shields.io/badge/Tableau-logo?logo=tableau&logoColor=white&color=black)
 
 <br><br>
