@@ -10,7 +10,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**ABOUT ME:**
 
-✔ Currently working as a ***Deep Learning Researcher at the Zilkha Neurogenetic Institute*** <br>
+✔ Currently working as a ***Machine Learning Data Scientist at the Zilkha Neurogenetic Institute*** <br>
 ✔ Previously ***interned at NVIDIA and AlgoAsylum, where I worked on Machine Learning research***<br>
 ✔ <ins>*I am looking for internship/full-time opportunities in Machine Learning/Data Science/Software Engineering domains*</ins><br>
 
